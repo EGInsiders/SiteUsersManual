@@ -6,7 +6,7 @@ permalink: /personal-paths/
 source-id: 1YdmairvDf-Q9RTAlQtLk6UeLszpv-aw-l2i4Tng4GxQ
 published: true
 ---
-Personal Paths
+# Personal Paths
 
 The personal path system is a method for delivering a series of online lessons which are known as activities. Each activity focuses on a specific topic, and they build on each other.  Each activity relays information about a given subject through the use of different types of steps, or the pages which path participants view inside an activity. Activities can contain text, videos, images, and discussion questions.
 
@@ -41,4 +41,10 @@ There are a number of elements and controls which you can use as you are navigat
 4. **Comment form** - This is where users can enter their response to the step's message or questions.
 
 5. **Word minimum counter** - By default, the step will display the word count minimum for any response that's asked for by the step. As the user types, this number will go down. When the counter reaches "0," they have reached the minimum and will be able to submit their answer.
+
+6. **Plus submit button** - When you're ready to submit  your response, you can either hit the enter button or click on the plus submit button. Your comment will be saved and appear below the step’s message.
+
+7. **Message area** - The text with the blue button is the step's main message.
+
+8. **Hamburger Menu** - Click on the hamburger menu icon over on the left hand side to expand the path menu.
 
