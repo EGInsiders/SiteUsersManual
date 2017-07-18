@@ -8,11 +8,11 @@ published: true
 ---
 # Auto Groups
 
-As coaches go through the Team Settings page during the process of launching their team they will be prompted to make a choice about activating the site's auto groups setting.
+As coaches go through the Team Settings Page during the process of launching their team, they will be prompted to make a choice about activating the Auto Group Setting.
 
-Autogroups is a function which automatically creates a new group for each support and lead coach that is invited to join the team. While the invitations are pending, the groups will contain the invited coach's email address. When the coach responds to their invitation, they will be automatically assigned as a follower of the group and the group’s title will be changed so that it contains their name.
+Auto Groups is a function which automatically creates a new group for each Support and Lead Coach  invited to join the team. While invitations are pending, the groups will contain the invited coach's email address. When the coach responds to their invitation, they will be automatically assigned as a follower of the group and the group’s title will be changed so it contains their name.
 
-You can change your team's autogroups setting later after your team has launched by returning to the team settings page, or making the adjustment in the groups management page.
+Change the team's Auto Groups setting later after the team has launched by returning to the team settings page, or by making the revision in the groups management page.
 
-When Autogroups is turned off, then groups will not be created for coaches when invitations are sent out, and you will need to manually assign coaches to groups.
+When Auto Groups is turned off, then groups are not created for Team Coaches when invitations are sent out. Team Coaches must be manually assigned to groups.
 
